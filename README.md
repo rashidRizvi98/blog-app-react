@@ -3,6 +3,10 @@
 
 ![mastery](https://user-images.githubusercontent.com/56111224/131248530-5be0366a-ab27-499d-8ecb-523532ea200e.gif)
 
+
+![mastery 00_02_00-00_02_48_1](https://user-images.githubusercontent.com/56111224/131249207-e0d2b2db-f65c-4cbb-b050-830d41fafa6c.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
